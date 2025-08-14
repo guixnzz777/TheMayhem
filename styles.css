@@ -129,9 +129,9 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://static.wikia.nocookie.net/ladygaga/images/a/ab/MAYHEM_animated_artwork.gif/revision/latest?cb=20250307175637') top right no-repeat,
-                url('https://static.wikia.nocookie.net/ladygaga/images/a/ab/MAYHEM_animated_artwork.gif/revision/latest?cb=20250307175637') bottom left no-repeat;
-    background-size: 180px 180px;
+    background: url('https://i.imgur.com/eelFR8I.gif') top right no-repeat,
+                url('https://i.imgur.com/stwrtIU.gif') bottom left no-repeat;
+    background-size: 220px 220px;
     border-radius: 15px; /* Arredonda as imagens dentro do container */
 }
 
